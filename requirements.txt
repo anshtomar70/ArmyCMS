@@ -1,0 +1,3 @@
+plotly
+streamlit-folium
+streamlit-drawable-canvas
